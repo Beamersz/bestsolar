@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Yeah Tigers | 0x32Moon", // Name of the collection
     title: "{name}", 
-    date: "30.06.2022", // Today Date
+    date: "02.10.2022", // Today Date
     socialMedia: {
         discord: "https://discord.gg/Y7HqfVgD/", // Discord link
         twitter: "https://mobile.twitter.com/thewildcatsnft/", // Twitter link
